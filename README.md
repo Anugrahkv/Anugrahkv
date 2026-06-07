@@ -5,10 +5,10 @@
 I am an MSc Cyber Security graduate based in Manama, Bahrain, specializing in building defenses and turning noisy environments into monitored, hardened, and audit-ready systems. I focus on enterprise-grade security infrastructure, threat hunting, and secure full-stack development.
 
 ### 🛡️ Core Competencies
-* **Security Architecture:** Fortinet (FortiGate), pfSense, Snort, Suricata, VPNs
+* **Security Architecture & Infrastructure:** Fortinet (FortiGate), pfSense, Suricata, Ubuntu Server, Apache2, VPNs
 * **SIEM & Log Analysis:** ELK Stack (Elasticsearch, Logstash, Kibana), Filebeat
-* **Offensive/Defensive Ops:** MITRE ATT&CK Mapping, Vulnerability Assessments, Incident Response
-* **Development:** Python, Django, Secure Coding (OWASP Top 10 Mitigation)
+* **Offensive/Defensive Ops:** MITRE ATT&CK Mapping, Attack Simulation (Port Scanning, Brute Force), Vulnerability Assessments, Incident Response
+* **System Admin & Development:** Linux Administration, Python, Django, Secure Coding (OWASP Top 10 Mitigation)
 
 ### 🏆 Certifications & Achievements
 * **Fortinet Certified Associate (FCA)** in Cybersecurity
