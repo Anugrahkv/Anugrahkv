@@ -1,6 +1,6 @@
 # Hi, I'm Anugrah 👋
 
-**SOC Analyst | Cybersecurity Engineer | Infrastructure Hardening**
+**Cybersecurity Analyst | Security Operations (SOC) | ELK Stack, IDS/IPS, & Network Defense | MITRE ATT&CK Mapping**
 
 I am an MSc Cyber Security graduate based in Manama, Bahrain, specializing in building defenses and turning noisy environments into monitored, hardened, and audit-ready systems. I focus on enterprise-grade security infrastructure, threat hunting, and secure full-stack development.
 
