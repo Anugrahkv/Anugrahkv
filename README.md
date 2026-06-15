@@ -14,7 +14,7 @@ I am an MSc Cyber Security graduate based in Manama, Bahrain, specializing in bu
 * **Fortinet Certified Associate (FCA)** in Cybersecurity
 * **Fortinet Certified Fundamentals (FCF)** in Cybersecurity
 * **Hack The Box:** Linux Fundamentals Badge
-* *In Progress:* **CEH** and **CICSA** certifications (Expected July 2026)
+* *In Progress:* **CEH** and **CICSA** certifications (Expected october 2026)
 
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/anugrah-kizhakke-veedu](https://www.linkedin.com/in/anugrah-kizhakke-veedu)
