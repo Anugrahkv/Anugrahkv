@@ -14,6 +14,7 @@ I am an MSc Cyber Security graduate based in Manama, Bahrain, specializing in bu
 * **Fortinet Certified Associate (FCA)** in Cybersecurity
 * **Fortinet Certified Fundamentals (FCF)** in Cybersecurity
 * **Hack The Box:** Linux Fundamentals Badge
+* **Elastic Ecosystem and Technical Essentials** by Elastic
 * *In Progress:* **CEH** and **CICSA** certifications (Expected october 2026)
 
 ### 📫 Let's Connect
