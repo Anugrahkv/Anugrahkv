@@ -26,6 +26,6 @@ I am an MSc Cyber Security graduate based in Manama, Bahrain, specializing in bu
 * *Currently Enrolled:* **Certified Ethical Hacker (CEH)** and **Certified IT Infrastructure & Cyber SOC Analyst (CICSA)** (Expected October 2026)
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/anugrah-kizhakke-veedu](https://www.linkedin.com/in/anugrah-kizhakke-veedu)
+* **LinkedIn:** [linkedin.com/in/anugrah](https://www.linkedin.com/in/anugrah-kizhakke-veedu)
 * **Email:** [anugrahkv07@gmail.com](mailto:anugrahkv07@gmail.com)
 * **Portfolio:** [portfolio/anugrah](https://www.anugrahkv.online/)
