@@ -25,7 +25,7 @@ I am an MSc Cyber Security graduate based in Kerala, India, specializing in the 
 - **Elastic Ecosystem and Technical Essentials** by Elastic
 - **Mastercard Cybersecurity Job Simulation** via Forage
 - **Hack The Box:** Linux Fundamentals Badge
-- *Currently Enrolled:* **Certified Ethical Hacker (CEH)** and **Certified IT Infrastructure & Cyber SOC Analyst (CICSA)** (Expected November 2026)
+- *Currently Enrolled:* **Certified Ethical Hacker (CEH)** and **Certified IT Infrastructure & Cyber SOC Analyst (CICSA)** (Expected December 2026)
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin/anugrah](https://www.linkedin.com/in/anugrah-kizhakke-veedu)
