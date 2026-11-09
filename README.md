@@ -1,31 +1,33 @@
 # Hi, I'm Anugrah 👋
 
-**Cybersecurity Analyst | Security Operations (SOC) | SIEM (ELK/Wazuh), IDS/IPS & Network Defense | MITRE ATT&CK Mapping**
+**Cybersecurity Professional | Threat Intelligence | Vulnerability Assessment (VAPT) | Security Operations**
 
-I am an MSc Cyber Security graduate based in Manama, Bahrain, specializing in building defenses and turning noisy environments into monitored, hardened, and audit-ready systems. I focus on enterprise-grade security infrastructure, threat hunting, log analysis, and developing automated triage tools.
+I am an MSc Cyber Security graduate based in Kerala, India, specializing in the intersection of threat intelligence, security consulting, and proactive defense. I focus on mapping external attack surfaces, automating digital risk protection (DRP), conducting comprehensive VAPT, and translating technical findings into actionable, CISO-ready intelligence.
 
 ### 🛡️ Core Competencies
-* **Security Operations (SOC):** Threat Hunting, Malware Analysis, Phishing Analysis, Log Analysis, Incident Response, Vulnerability Assessments, MITRE ATT&CK Mapping
-* **SIEM & Network Defense:** ELK Stack (Elasticsearch, Logstash, Kibana), Wazuh, Next-Gen Firewalls (FortiGate, pfSense), Intrusion Detection Systems (Suricata, Snort)
-* **Analysis Tools & Admin:** Any.Run Sandbox, Wireshark, Linux Server Administration, CLI
-* **Security Automation & Scripting:** Python, Django, REST API Integration (VirusTotal, AbuseIPDB), JSON Parsing, OWASP Top 10 Mitigation
+- **Threat Intelligence & Research:** Dark Web Monitoring, HUMINT, OSINT, C2 Infrastructure Mapping, Threat Actor Tracking, Digital Risk Protection (DRP)
+- **Vulnerability Management (VAPT):** Web, API, Mobile, & Cloud VAPT, Attack Surface Management (EASM), Shadow AI Detection, Burp Suite, Nuclei, Nessus, MobSF
+- **Security Operations (SOC):** Alert Triage, Threat Hunting, Incident Response, Log Analysis, Wazuh SIEM, ELK Stack, Suricata IDS, MITRE ATT&CK
+- **Security Automation & Scripting:** Python, Django, REST API Integration (VirusTotal, AbuseIPDB, GitHub API), Concurrent Fuzzing, JSON Parsing
 
 ### 💻 Featured Projects
-* **Active SOC Home Lab:** Architected a multi-subnet virtualized environment using VirtualBox. Deployed a Wazuh SIEM and Snort NIDS to ingest, parse, and analyze traffic while validating detection logic against targeted Kali Linux attack simulations.
-* **Advanced Malware Detonation & C2 Extraction:** Executed weaponized malware payloads within an isolated Any.Run sandbox. Extracted IoCs, identified C2 infrastructure, and correlated network telemetry with Suricata IDS signatures mapped to the MITRE ATT&CK framework.
-* **SOC Automation & Enrichment Dashboard:** Engineered a custom Tier 1 triage dashboard using Python/Django. Integrated RESTful APIs (VirusTotal, AbuseIPDB) to automate the enrichment of IoCs and reduce manual alert fatigue.
-* **Intrusion Detection & Threat Monitoring Pipeline (IDS):** Designed a production-simulating environment from scratch. Built a centralized ELK Stack pipeline to aggregate logs and engineered 15+ custom Suricata detection rules, reducing false positives by 20%.
-* **TrippyGo:** Engineered a secure full-stack web application implementing robust cryptographic session management and strict input validation to eliminate SQL injection and XSS vulnerabilities.
+- 🕵️‍♂️ **Dark Web & Threat Actor Monitor (HUMINT):** Engineered a Python Threat Intelligence monitor to continuously parse OSINT feeds from underground Tor network ransomware leak sites (e.g., LockBit, Play) and track evolving Threat Actor activity.
+- 🤖 **AI Attack Surface Monitor:** Developed an automated Python scanner to detect shadow AI infrastructure, hunting for exposed Vector Databases (ChromaDB, Qdrant) and utilizing regex to identify leaked LLM API credentials (OpenAI, Anthropic).
+- ☁️ **Cloud & API Vulnerability Scanner:** Built a concurrent Python fuzzing tool to rapidly identify OWASP API vulnerabilities and cloud misconfigurations, including exposed environment variables, `.git` folders, and AWS credentials.
+- 🔑 **Digital Risk Protection (DRP) Automation:** Engineered a GitHub secret scanner utilizing the REST API to proactively detect exposed AWS credentials and private RSA keys across public repositories, simulating enterprise credential leak detection.
+- 🌍 **External Attack Surface Management (EASM):** Developed a reconnaissance tool integrating OSINT APIs and concurrent HTTP probing to enumerate, map, and validate live subdomains and forgotten cloud assets.
+- 🔬 **Advanced Malware Detonation & C2 Analysis:** Executed weaponized payloads within an isolated Any.Run sandbox. Extracted IoCs and mapped Command-and-Control (C2) infrastructure to specific Threat Actor TTPs using the MITRE ATT&CK framework.
+- 🛡️ **Active SOC Home Lab & Enrichment Dashboard:** Architected a segmented virtualized environment with a Wazuh SIEM and Suricata IDS. Built a custom Python/Django Tier 1 triage dashboard integrating RESTful APIs to automate IOC enrichment and reduce manual alert fatigue.
 
 ### 🏆 Certifications & Achievements
-* **Fortinet Certified Associate (FCA)** in Cybersecurity
-* **Fortinet Certified Fundamentals (FCF)** in Cybersecurity
-* **Mastercard Cybersecurity Job Simulation** via Forage
-* **Hack The Box:** Linux Fundamentals Badge
-* **Elastic Ecosystem and Technical Essentials** by Elastic
-* *Currently Enrolled:* **Certified Ethical Hacker (CEH)** and **Certified IT Infrastructure & Cyber SOC Analyst (CICSA)** (Expected October 2026)
+- **Fortinet Certified Associate (FCA)** in Cybersecurity
+- **Fortinet Certified Fundamentals (FCF)** in Cybersecurity
+- **Elastic Ecosystem and Technical Essentials** by Elastic
+- **Mastercard Cybersecurity Job Simulation** via Forage
+- **Hack The Box:** Linux Fundamentals Badge
+- *Currently Enrolled:* **Certified Ethical Hacker (CEH)** and **Certified IT Infrastructure & Cyber SOC Analyst (CICSA)** (Expected November 2026)
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin/anugrah](https://www.linkedin.com/in/anugrah-kizhakke-veedu)
-* **Email:** [anugrahkv07@gmail.com](mailto:anugrahkv07@gmail.com)
-* **Portfolio:** [portfolio/anugrah](https://www.anugrahkv.online/)
+- **LinkedIn:** [linkedin/anugrah](https://www.linkedin.com/in/anugrah-kizhakke-veedu)
+- **Portfolio:** [anugrahkv.online](https://www.anugrahkv.online/)
+- **Email:** [anugrahkv07@gmail.com](mailto:anugrahkv07@gmail.com)
